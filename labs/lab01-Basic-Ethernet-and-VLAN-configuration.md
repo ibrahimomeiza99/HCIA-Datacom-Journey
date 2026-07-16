@@ -16,7 +16,7 @@
 
 ## Topology Diagram
 
-!image.png
+https://github.com/ibrahimomeiza99/HCIA-Datacom-Journey/blob/main/topologies/Screenshot%202026-07-16%20142350.png
 
 ### IP Address Table
 
